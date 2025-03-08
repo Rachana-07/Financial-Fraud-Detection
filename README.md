@@ -1,8 +1,11 @@
 #📌 Introduction:
+
 This project focuses on detecting financial fraud using NannyML, an advanced monitoring tool for tracking model performance and data drift. The analysis involves estimating model performance, detecting drift in key features, and identifying correlations that could indicate fraudulent activity.
 
 📊 Performance Estimation using CBPE
+
 The Confidence-Based Performance Estimation (CBPE) method is used to estimate model accuracy over time. The process involves:
+
 1️⃣ Loading reference and analysis datasets.
 2️⃣ Fitting CBPE on the reference dataset.
 3️⃣ Estimating model performance for the analysis dataset.
@@ -10,6 +13,7 @@ The Confidence-Based Performance Estimation (CBPE) method is used to estimate mo
 
 
 🚨 Performance Alerts Found in:
+
 April 2019
 May 2019
 June 2019
